@@ -1,4 +1,6 @@
-
+//dependencies
+var path = require('path');
+var async = require('async');
 
 module.exports = function SamplePluginModule(pb) {
     
